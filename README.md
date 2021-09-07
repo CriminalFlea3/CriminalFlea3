@@ -12,8 +12,9 @@
 
 ### About Kevin
 
-Hola que tal soy Kevin tengo 21 y soy amante de la tecnologia. Me fascina aprender dia con dia y actualmente soy un fullstack developer con conocimientos en el stack de 
-React, Redux, Postgres, SQL, Node, Express.
+Hola que tal soy Kevin tengo 21 y soy amante de la tecnologia. Me fascina aprender dia con dia y actualmente soy un fullstack developer y este es el stack que manejo actualmente
+- <h1> React </h1>
+
 Me encanta adentrarme en el mundo de la tecnologia y la ciencia, me encanta la resolucion de problemas y los retos, soy bueno bueno aprendiendo cosas nuevas y me adapto facilmente a casi cualquier situacion. Me gusta trabajar en equipo y conocer gente nueva.
 Si te interesa alguno de mis proyectos o perfil en general no dudes en contactarme!.
 
