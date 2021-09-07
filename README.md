@@ -1,19 +1,35 @@
-### Welcome to my GitHub 👋
+![Welcome to the official GitHub profile of @KevinDanae](https://user-images.githubusercontent.com/282759/84682528-c1d5d300-af03-11ea-9bfb-02854ad0cb20.gif)
 
-**Hi everyone!** I'm Kevin :blush:. I'am 21 years old and my objective is never stop learning :notebook_with_decorative_cover: new things.
+### Elsewhere on the internet
+[![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://www.linkedin.com/in/kevin-danae/)
+Mail: kevin.danaea@gmail.com
 
-- :books: I’m currently study Full-Stack Developer at *Henry :yellow_heart:*
+### Proyectos personales
+- <a href="https://kevinaguilera.tech">Portfolio</a>
+- <a>Rick and Morty App</a>
+- <a>Weather App </a>
+- <a>Pokedex by Kevin </a>
 
-<a href="https://www.soyhenry.com/"> <img src="https://hypernoir.com/wp-content/uploads/2020/11/Henry.png" height="200" width="200"> </a>
-- 🌱 I have knowledge in *JavaScript, data structures, sorting algorithms, HTML, CSS, React, Redux, Webpack, Node.js, Express, Sequelize and PostgreSQL* 
-- My projects desktop version: 
-- Rick and Morty app: <a href="https://nervous-wozniak-7cc5d3.netlify.app/">Rick and Morty</a>.
-- Weather: <a href="https://loving-bhaskara-6cca62.netlify.app/">Weather app</a>
-- PokeApi: Deploy in progress, video preview <a href="https://www.linkedin.com/posts/kevin-danae_react-nodejs-frontend-activity-6837142249088831488-WctW">PokeApi preview<a/>
+### About Kevin
 
- <img alt="logo-js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" height="80" width="80">    <img alt="logo-html" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" height="90" width="90">     <img alt="logo-css" src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" height="100" width="100">      <img alt="logo-react" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" height="90" width="100">      <img alt="logo-redux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/1200px-Redux_Logo.png" height="80" width="300">   <img alt="logo-webpack" src="https://repository-images.githubusercontent.com/76603199/0d36ee00-8030-11e9-9d07-c393f6039471" height="100" width="100">   <img alt="logo-node.js" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" height="80" width="160"> <img alt="logo-sequelize" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sequelize_icon_130173.png" height="100" width="100"> <img alt="logo-postgres" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="100" width="100">
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...-->
+Hola que tal soy Kevin tengo 21 y soy amante de la tecnologia. Me fascina aprender dia con dia y actualmente soy un fullstack developer con conocimientos en el stack de 
+React, Redux, Postgres, SQL, Node, Express.
+Me encanta adentrarme en el mundo de la tecnologia y la ciencia, me encanta la resolucion de problemas y los retos, soy bueno bueno aprendiendo cosas nuevas y me adapto facilmente a casi cualquier situacion. Me gusta trabajar en equipo y conocer gente nueva.
+
+<div align="center">
+
+![Under construction](https://user-images.githubusercontent.com/282759/84681715-8c7cb580-af02-11ea-85a4-05d069c72121.gif)
+
+</div>
+<div align="center">
+  
+<sup>You are visitor number:</sup>
+
+![Hit counter](https://smallcounter.com/count.php?c_style=14&id=1626708761)
+
+</div>
+<div align="center">
+
+<sup>Best viewed with:</sup><br />![Microsoft Internet Explorer](https://user-images.githubusercontent.com/282759/84683523-52f97980-af05-11ea-9da0-639e1c368536.gif)
+
+</div>
