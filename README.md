@@ -8,7 +8,7 @@
 - <a href="https://kevinaguilera.tech">Portfolio</a>
 - <a href="https://nervous-wozniak-7cc5d3.netlify.app/">Rick and Morty App</a>
 - <a href="https://loving-bhaskara-6cca62.netlify.app/">Weather App </a>
-- <a>Pokedex by Kevin deploy in progress </a>
+- <a href="https://eager-saha-63b559.netlify.app/">Pokedex by Kevin</a>
 
 ### About Kevin
 
