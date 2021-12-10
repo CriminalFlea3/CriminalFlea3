@@ -12,7 +12,8 @@
 
 ### About Kevin
 
-Hola que tal soy Kevin tengo 21 y soy amante de la tecnologia. Me fascina aprender dia con dia y actualmente soy un FrontEnd developer en TrueHome y este es el stack que manejo actualmente
+Mucho gusto mi nombre es Kevin Aguilera, soy desarrollador FrontEnd actualmente me encuentro trabajando dentro de la empresa TrueHome y siempre me encuentro en constante aprendizaje para poder seguir desarrollandome y crecer profesionalmente, actualmente este es el stack que manejo, manejo un poco el back aunque mi preferencia es 100% front y/o mobile.
+
 - React
 - React-Native
 - Redux
@@ -21,7 +22,7 @@ Hola que tal soy Kevin tengo 21 y soy amante de la tecnologia. Me fascina aprend
 - Node
 - Express
 
-Actualmente me encuentro aprendiendo Swift
+Actualmente me encuentro aprendiendo Vue
 
 Me encanta adentrarme en el mundo de la tecnologia y la ciencia, me encanta la resolucion de problemas y los retos, soy bueno bueno aprendiendo cosas nuevas y me adapto facilmente a casi cualquier situacion. Me gusta trabajar en equipo y conocer gente nueva.
 Si te interesa alguno de mis proyectos o perfil en general no dudes en contactarme!.
