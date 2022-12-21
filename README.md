@@ -4,12 +4,6 @@
 - 🤝🏻 Connect with me :  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-pawar-508)](https://www.linkedin.com/in/kevin-danae/)
 - Mail: kevin.danaea@gmail.com
 
-### Proyectos personales
-- <a href="https://kevinaguilera.tech">Portfolio</a>
-- <a href="https://nervous-wozniak-7cc5d3.netlify.app/">Rick and Morty App</a>
-- <a href="https://loving-bhaskara-6cca62.netlify.app/">Weather App </a>
-- <a href="https://eager-saha-63b559.netlify.app/">Pokedex by Kevin</a>
-
 ### About Kevin
 
 Mucho gusto mi nombre es Kevin Aguilera, soy desarrollador FrontEnd actualmente me encuentro trabajando dentro de la empresa TrueHome y siempre me encuentro en constante aprendizaje para poder seguir desarrollandome y crecer profesionalmente, actualmente este es el stack que manejo, manejo un poco el back aunque mi preferencia es 100% front y/o mobile.
@@ -31,8 +25,8 @@ Si te interesa alguno de mis proyectos o perfil en general no dudes en contactar
 
 <h3>⚙️ Profile Stats :</h3>
 <p align="left">
-<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KevinDanae&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KevinDanae&layout=compact&langs_count=8&theme=algolia"/>
+<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kevin-Danae&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kevin-Danae&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 </div>
