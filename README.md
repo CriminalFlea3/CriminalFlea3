@@ -6,7 +6,7 @@
 
 ### About Kevin
 
-Mucho gusto mi nombre es Kevin Aguilera, soy desarrollador FrontEnd actualmente me encuentro trabajando dentro de la empresa TrueHome y siempre me encuentro en constante aprendizaje para poder seguir desarrollandome y crecer profesionalmente, actualmente este es el stack que manejo, manejo un poco el back aunque mi preferencia es 100% front y/o mobile.
+Mucho gusto mi nombre es Kevin Aguilera, soy desarrollador FrontEnd actualmente me encuentro trabajando dentro de la empresa Mercado Libre y siempre me encuentro en constante aprendizaje para poder seguir desarrollandome y crecer profesionalmente, actualmente este es el stack que manejo, manejo un poco el back aunque mi preferencia es 100% front y/o mobile.
 
 - React
 - React-Native
